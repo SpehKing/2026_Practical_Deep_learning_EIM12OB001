@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+torch
+h5py
+tensorflow
+keras
+imageio
+kagglehub
+dlai-tools
+music21
+mido
+pydub
